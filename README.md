@@ -150,11 +150,6 @@ docker-compose -p javaseclab up -d
 
 **如果师傅同样对开发安全、应用安全、SDL、漏洞靶场等感兴趣的话，欢迎加交流群一起探讨……**
 
-<div style="text-align: center;">
-    <img src="./pic/wechat.png" alt="description" width="271" height="366" />
-      <img src="./pic/group.png" alt="description" width="271" height="366" />
-</div>
-
 
 ## 赞助开源
 
