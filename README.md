@@ -13,7 +13,7 @@
 ----------------------------------------
 
 ## 项目介绍
-​	JavaSecLab是**一款综合型Java漏洞平台**，提供相关漏洞缺陷代码、修复代码、漏洞场景、审计SINK点、安全编码规范、漏洞流量分析，覆盖多种漏洞场景，友好用户交互UI……
+JavaSecLab是**一款综合型Java漏洞平台**，提供相关漏洞缺陷代码、修复代码、漏洞场景、审计SINK点、安全编码规范、漏洞流量分析，覆盖多种漏洞场景，友好用户交互UI……
 
 
 
@@ -62,11 +62,10 @@ http://whgojp.top/
 
 🆕 更新漏洞流量分析模块，方便师傅们参考学习，以本项目漏洞流量为例，如果您有更好的漏洞流量数据包，欢迎提PR参与项目🌹
 
-![flow1](./pic/flow1.png)
+
 
 这里以延时注入为例：可以从响应时间明显的看到其流量特征：5秒后服务器响应
 
-![flow2](./pic/flow2.png)
 
 ## 技术架构
 
@@ -107,7 +106,7 @@ password: QWE123qwe
 url: jdbc:mysql://localhost:13306/JavaSecLab?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2B8&nullCatalogMeansCurrent=true&allowPublicKeyRetrieval=true&allowMultiQueries=true
 ```
 
-<img src="./pic/login.png" alt="logo" style="zoom:100%;" />
+
 
 初始账号密码：admin/admin(后台可修改)
 
@@ -159,10 +158,7 @@ docker-compose -p javaseclab up -d
 
 ## 赞助开源
 
-​	如果您觉得这个工具对您有帮助，不妨考虑支持一下作者的开发工作。您的赞助将用于维护在线服务器和持续优化项目功能，非常感谢您的鼓励和支持！
+如果您觉得这个工具对您有帮助，不妨考虑支持一下作者的开发工作。您的赞助将用于维护在线服务器和持续优化项目功能，非常感谢您的鼓励和支持！
 
-<div style="text-align: center;">
-    <img src="./pic/donate.jpg" style="width: 40%; height: auto;"/>
-  </div>
 
 
