@@ -15,9 +15,7 @@
 ## 项目介绍
 ​	JavaSecLab是**一款综合型Java漏洞平台**，提供相关漏洞缺陷代码、修复代码、漏洞场景、审计SINK点、安全编码规范、漏洞流量分析，覆盖多种漏洞场景，友好用户交互UI……
 
-![image-20241020143155383](./pic/home.png)
 
-![show](./pic/show.png)
 
 ## 面向人群
 
@@ -82,7 +80,7 @@ http://whgojp.top/
 git clone https://github.com/whgojp/JavaSecLab.git
 ```
 
-![image-20240905230400930](./pic/git-clone.png)
+
 
 ### 本地部署-IDEA
 
@@ -124,9 +122,9 @@ mvn clean package -DskipTests
 docker-compose -p javaseclab up -d
 ```
 
-![image-20240905225532698](./pic/deploy-docker.png)
 
-![image-20240905225532698](./pic/deploy-docker2.png)
+
+
 
 更多部署方案、部署问题解答详见：[部署指南](https://github.com/whgojp/JavaSecLab/wiki/%E9%83%A8%E7%BD%B2%E6%8C%87%E5%8D%97)
 
